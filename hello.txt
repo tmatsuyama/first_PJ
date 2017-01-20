@@ -1,1 +1,4 @@
-hello! git
+hello! GitHub!
+
+Now, I learn how to manipulate GitHub!
+日本語にも対応しているのかな？→してた！
